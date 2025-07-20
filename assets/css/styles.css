@@ -412,6 +412,7 @@ img {
   height: 300px;
   object-fit: cover;
   object-position: top;
+  filter: drop-shadow(5px 8px 10px #7054e4);
   border-radius: .5rem;
   justify-self: center;
   align-self: center;
